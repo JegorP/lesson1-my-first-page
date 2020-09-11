@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(14, 109, 14);
+}
+
+ul {
+    list-style: square;
+}
+
+img.working{
+    border-radius: 10%;
+}
+
+hr {
+    width: 100%;
+    border-style: dotted none none;
+    border-width: 0.2rem;
+    border-color: rgb(0, 0, 0)
+}
